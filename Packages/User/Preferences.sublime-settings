@@ -1,0 +1,11 @@
+{
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"font_face": "Ricty Diminished Discord",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true
+}

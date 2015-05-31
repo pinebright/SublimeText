@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"TrailingSpaces"
+	]
+}
